@@ -1,3 +1,4 @@
+#Hello, I was unable to push my project to this github repo so my friend affan helped me push the project into the repo so please do consider, Thank you.
 # FLEXI_SUBMISSION
 
 THIS IS MY REPO
@@ -33,3 +34,4 @@ See the repo's fullstack-auth-app/ structure (frontend, backend).
 - Payment integration (Stripe/PayPal)
 - Role-based routes (instructor/admin)
 - Add UI library (Tailwind / Material UI) and polished pages
+
